@@ -10,7 +10,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://www.svgrepo.com/show/303360/nodejs-logo.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://svg-viewer.fileformat.info/view.html?url=https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg&zoom=max&backUrl=https://www.vectorlogo.zone/logos/nodejs/index.html&backText=Return+to+VectorLogoZone)">
 </div>
  
 <br>
