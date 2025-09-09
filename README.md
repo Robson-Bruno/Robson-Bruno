@@ -42,7 +42,7 @@
 
 ## 🌐 Contribuições em 3D
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=isaac545454&theme=onedark" />
 </p>
 
 
