@@ -42,7 +42,7 @@
 
 ## 🌐 Contribuições em 3D
 <p align="center">
-  <img src="./3D.yml" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" />
 </p>
 
 
