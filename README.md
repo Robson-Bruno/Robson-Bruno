@@ -41,9 +41,7 @@
 ---
 
 ## 🌐 Contribuições em 3D
-<p align="center">
-  <img src="./profile-green-dual.svg" />
-</p>
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 ---
