@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Robson Bruno</h1>
+<h1 align="center">🖖 Olá, eu sou Robson Bruno</h1>
 <p align="center">🚀 FullStack Software Engineer HTML | CSS | JavaScript | React.js | React Native | TypeScript | Node.js </p>
 
 ---
